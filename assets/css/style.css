@@ -448,6 +448,9 @@ footer {
 }
 
 @media only screen and (max-width: 640px) {
+    header {
+        position: static;
+    }
     #wrapper {
         width: 600px;
     }
